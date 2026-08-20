@@ -105,9 +105,24 @@ The project is being built as an open-source application with a focus on privacy
 
 ## 💻 Installation
 
-> Installation instructions will be updated as stable releases become available.
+Installing Daryanavard-FilePilot is simple.
 
-For developers, clone the repository and follow the development instructions provided in the project documentation.
+1. Download the latest installer from the [Releases](../../releases) page.
+2. Run the installer.
+3. Choose the folder where you want to install Daryanavard-FilePilot.
+4. Click **Install**.
+5. The installer will automatically install and configure the application.
+6. Launch Daryanavard-FilePilot and start using it.
+
+No manual configuration is required.
+
+### 🚀 First Launch
+
+After installation, open Daryanavard-FilePilot.
+
+On the first launch, the application will guide you through the initial setup, including selecting folders that you want FilePilot to index.
+
+> **Note:** The application does not require a separate server or manual backend setup.
 
 ## 📖 Documentation
 
