@@ -133,7 +133,7 @@ Daryanavard-FilePilot در حال توسعه فعال است.
 
 ## 📖 مستندات
 
-[🇮🇷 فارسی](README-FA.md) | [🇬🇧 English](README-EN.md)
+[🇮🇷 فارسی](README-FA.md) | [🇬🇧 English](README.md)
 
 با پیشرفت پروژه، مستندات بیشتری اضافه خواهد شد.
 
