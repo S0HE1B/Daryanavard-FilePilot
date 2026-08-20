@@ -145,11 +145,7 @@ You can contribute by:
 
 Please read the contribution guidelines before submitting major changes.
 
-## 📜 License
 
-This project is open source.
-
-See the `LICENSE` file for the terms and conditions of use.
 
 ## 👨‍💻 Developer
 
