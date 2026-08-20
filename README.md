@@ -111,7 +111,7 @@ For developers, clone the repository and follow the development instructions pro
 
 ## 📖 Documentation
 
-[🇮🇷 فارسی](README-FA.md) | [🇬🇧 English](README-EN.md)
+[🇮🇷 فارسی](README-FA.md) | [🇬🇧 English](README.md)
 
 Additional documentation will be added as the project evolves.
 
