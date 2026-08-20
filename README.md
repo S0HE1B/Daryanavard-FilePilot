@@ -111,7 +111,6 @@ For developers, clone the repository and follow the development instructions pro
 
 ## 📖 Documentation
 
-* English: `README-EN.md`
 * فارسی: `README-FA.md`
 
 Additional documentation will be added as the project evolves.
